@@ -1,4 +1,11 @@
 ### Hi there 👋
+•	👋 Hi, I’m Salma Mejri                                                              
+•	🎓 Computer Science Student at ESPRIT, Tunisia                                                     
+•	🌍 Passionate about technology and self-taught enthusiast                                                         
+•	🤝  I’m looking to collaborate on new projects                                                        
+•	📫 How to reach me: Mejri.Salma1@esprit.tn
+
+
 
 <!--
 **MejriSalmaa/MejriSalmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
