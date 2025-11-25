@@ -1,11 +1,11 @@
 ### Hi there 👋
-• 👋 Hi, I’m Salma Mejri
-• 🎓 Computer Science Engineering Student at ESPRIT, Tunisia
-• 🌍 Passionate about technology, AI, and continuous self-learning
-• 🤝 Open to collaborating on meaningful and innovative projects
-• 🚀 Always looking to grow, build, and contribute to impactful solutions
-• 🌐 Portfolio: https://mejrisalmaa.github.io/
-• 📫 Reach me at: Mejri.Salma1@esprit.tn
+• 👋 Hi, I’m Salma Mejri  
+• 🎓 Computer Science Engineering Student at ESPRIT, Tunisia  
+• 🌍 Passionate about technology, AI, and continuous self-learning  
+• 🤝 Open to collaborating on meaningful and innovative projects  
+• 🚀 Always looking to grow, build, and contribute to impactful solutions  
+• 🌐 Portfolio: https://mejrisalmaa.github.io/  
+• 📫 Reach me at: Mejri.Salma1@esprit.tn  
 
 
 
